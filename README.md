@@ -7,7 +7,7 @@
 
 - 🇺🇸 **English**
   - [Quick Start (Short)](./en/README.md)
-  - [Full Detailed Documentation](./en/full‑detail.md)
+  - [Full Detailed Documentation](README.md)(here)
 
 - 🇷🇺 **Русский**
   - [Краткое руководство](./ru/README.md)
