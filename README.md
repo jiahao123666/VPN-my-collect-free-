@@ -1,3 +1,6 @@
+
+# 了解更多资讯，请加入t.me/freevpns_share
+
 # 项目文档
 抱歉，因为技术问题,暂时只有中文和英文文档,其余语言文档尚未编写(Sorry, Due to technical issues, only Chinese and English)
 
