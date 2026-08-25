@@ -1,3 +1,21 @@
+# 项目文档
+请选择你的语言：
+
+- 🇨🇳 **中文**
+  - [快速入门(精简版)](./zh/README.md)
+  - [完整详细文档](./zh/full‑detail.md)
+
+- 🇺🇸 **English**
+  - [Quick Start (Short)](./en/README.md)
+  - [Full Detailed Documentation](./en/full‑detail.md)
+
+- 🇷🇺 **Русский**
+  - [Краткое руководство](./ru/README.md)
+  - [Полная документация](./ru/full‑detail.md)
+
+- 🇮🇷 **فارسی**
+  - [شروع سریع](./fa/README.md)
+  - [مستندات کامل](./fa/full‑detail.md)
 # VPN-my-collect-free-
 This is a GitHub repository containing a collection of VPN applications. Currently, all VPNs listed are free; some may become unusable in the future, so use them while you can.
 ## Disclaimer: This repository is for academic exchange only. Please do not distribute it. Any infringement will be deleted within 24 hours.
