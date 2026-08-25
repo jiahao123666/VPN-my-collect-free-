@@ -1,3 +1,5 @@
+# 更多资讯请了解t.me/freevpns_share
+
 # 🌐 Free VPN Collection
 
 A collection of free VPN services, open-source VPN projects, public nodes, and network tools.
