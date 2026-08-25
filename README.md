@@ -1,9 +1,7 @@
 # 项目文档
-抱歉，因为时间问题,暂时只有中文和英文能够正常使用,其余文档尚未编写(Sorry, due to time constraints, only Chinese and English versions are currently working properly; the other documents have not yet been written.)
-(К сожалению, из-за нехватки времени в настоящее время корректно работают только китайская и английская версии; остальные документы еще не написаны.)
-（متاسفیم، به دلیل محدودیت زمانی، در حال حاضر فقط نسخه‌های چینی و انگلیسی به درستی کار می‌کنند؛ سایر اسناد هنوز نوشته نشده‌اند.）
+抱歉，因为技术问题,暂时只有中文和英文文档,其余语言文档尚未编写(Sorry, Due to technical issues, only Chinese and English)
 
-请选择你的语言：
+请选择你的语言(choose your language)：
 
 - 🇨🇳 **中文**
   - [快速入门(精简版)](./zh/README.md)
@@ -13,13 +11,6 @@
   - [Quick Start (Short)](./en/README.md)
   - [Full Detailed Documentation](README.md)(here)
 
-- 🇷🇺 **Русский**
-  - [Краткое руководство](./ru/README.md)
-  - [Полная документация](./ru/full‑detail.md)
-
-- 🇮🇷 **فارسی**
-  - [شروع سریع](./fa/README.md)
-  - [مستندات کامل](./fa/full‑detail.md)
 # VPN-my-collect-free-
 This is a GitHub repository containing a collection of VPN applications. Currently, all VPNs listed are free; some may become unusable in the future, so use them while you can.
 ## Disclaimer: This repository is for academic exchange only. Please do not distribute it. Any infringement will be deleted within 24 hours.
