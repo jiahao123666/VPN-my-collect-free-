@@ -2,6 +2,8 @@
 
 # [**Release**](https://github.com/jiahao123666/VPN-my-collect-free-/release)
 
+# 了解更多资讯，请加入t.me/freevpns_share
+
 # 🌐 Free VPN Collection
 
 一个关于 **免费 VPN、公共节点、网络访问工具** 的资源收集仓库。
