@@ -218,6 +218,25 @@ Rating: ⭐⭐⭐⭐
 
 ---
 
+# 🥇 TunVPN
+
+Introduction:
+TunVPN is a free VPN service that I discovered on YouTube. After testing it myself, I found that it provides multiple nodes, including Japan nodes. The connection speed is excellent, easily reaching several MB/s, making it suitable for daily browsing, downloading, and accessing overseas services.
+
+## Advantages:
+- Multiple available nodes, including Japan nodes
+- Very fast connection speed, easily reaching several MB/s
+- Good stability and overall user experience
+- Provides a great experience even for free users
+- Powerful enough to be used as a primary VPN
+
+## Disadvantages:
+- Requires browser-based renewal every 24 hours
+- Renewal requires human verification, which can be slightly inconvenient
+
+Rating:
+★★★★★
+
 # 🔒 Security Notes
 
 Before using any VPN:
