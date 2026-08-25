@@ -1,4 +1,7 @@
 **本文档由chatgpt编写,请注意，虽然他可能会让获取信息变得更快，但是AI会犯错误，在编写文档的时候，他可能会带个人的主见，或因为部分原因导致部分功能无法正常使用。如果你想了解到中文原版（即使他可能没有那么好看），你也可以前往[这个README.md]（test web）来进行了解**
+
+# [**Release**](https://github.com/jiahao123666/VPN-my-collect-free-/release)
+
 # 🌐 Free VPN Collection
 
 一个关于 **免费 VPN、公共节点、网络访问工具** 的资源收集仓库。
