@@ -1,5 +1,5 @@
 
-# 了解更多资讯，请加入t.me/freevpns_share
+(os：最近听说国内用户翻出去都是看p或追星的，你可以去这里看看有没有你需要的)
 
 # 项目文档
 抱歉，因为技术问题,暂时只有中文和英文文档,其余语言文档尚未编写(Sorry, Due to technical issues, only Chinese and English)
@@ -73,3 +73,5 @@ This free VPN is exactly the same as the Tempovpn I just mentioned; it's essenti
 ## 菜鸟加速器
 Cainiao Accelerator was shared by a guy in a PG group. It also has ads, but all nodes are free and offer unlimited traffic. However, like above, it's all labeled "Airline" (or similar services). Keep it as a backup.
 **In conclusion: Free VPNs are either just third-party VPN providers or, while they can connect, you can't choose your own node, or they're prone to crashing. Having several backups is always the best approach! If you have other VPNs or similar third-party VPN providers, feel free to join us. We're planning to create a group chat and a public channel where you can post any free VPNs or public nodes you find. (VPNs and nodes posted in the public channel are recommended to also be posted in the group chat, as the public channel may contain malicious modified versions of viruses dropped by third-party bots. You can send us your installation package, and we'll verify it on a professional platform before posting it in the group chat to ensure your VPN is safe, efficient, and risk-free, while also allowing more people to see your efforts!)**
+
+# 支持我们(join us)t.me/freevpns_share,群聊(chating):https://t.me/+U-pzPar_Lp0xZjhl
